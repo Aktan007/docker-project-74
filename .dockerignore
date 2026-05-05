@@ -1,1 +1,10 @@
 node_modules
+.git
+.github
+.gitignore
+.env
+*.md
+services/
+app/.dockerignore
+app/.gitignore
+app/node_modules
